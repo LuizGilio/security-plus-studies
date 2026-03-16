@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Controles de Segurança de TI</title>
+  </head>
+  <body>
+    <outline text="Controles de Segurança de TI">
+
+      <outline text="🎯 Objetivo dos Controles">
+        <outline text="Impedir eventos antes que ocorram"/>
+        <outline text="Minimizar impacto de eventos em andamento"/>
+        <outline text="Limitar danos após uma invasão"/>
+        <outline text="Proteger: dados, sistemas, pessoas e instalações"/>
+      </outline>
+
+      <outline text="📂 Categorias de Controles">
+        <outline text="🔧 Técnicos">
+          <outline text="Políticas do sistema operacional"/>
+          <outline text="Firewalls"/>
+          <outline text="Antivírus e softwares de segurança"/>
+        </outline>
+        <outline text="📋 Gerenciais">
+          <outline text="Políticas e procedimentos"/>
+          <outline text="Documentação oficial de segurança"/>
+          <outline text="Procedimentos operacionais padrão (POPs)"/>
+        </outline>
+        <outline text="👥 Operacionais">
+          <outline text="Seguranças no local de trabalho"/>
+          <outline text="Treinamentos mensais"/>
+          <outline text="Programas de conscientização em segurança"/>
+        </outline>
+        <outline text="🏢 Físicos">
+          <outline text="Guaritas de segurança"/>
+          <outline text="Cercas e trancas"/>
+          <outline text="Leitores de cartão de acesso"/>
+        </outline>
+      </outline>
+
+      <outline text="🛡️ Tipos de Controles">
+
+        <outline text="🚫 Preventivo — Limita o acesso a recursos específicos">
+          <outline text="Técnico → Regras de firewall"/>
+          <outline text="Gerencial → Políticas de onboarding"/>
+          <outline text="Operacional → Guarita verificando identificação"/>
+          <outline text="Físico → Fechaduras de portas"/>
+        </outline>
+
+        <outline text="⚠️ Dissuasor — Desencoraja ataques sem necessariamente impedi-los">
+          <outline text="Técnico → Splash screen com avisos de segurança"/>
+          <outline text="Gerencial → Ameaça de rebaixamento ou demissão"/>
+          <outline text="Operacional → Recepção verificando visitantes"/>
+          <outline text="Físico → Sinais de aviso de acesso restrito"/>
+        </outline>
+
+        <outline text="🔍 Detetivo — Identifica e alerta sobre violações ocorridas">
+          <outline text="Técnico → Coleta e análise de logs do sistema"/>
+          <outline text="Gerencial → Revisão de relatórios de login"/>
+          <outline text="Operacional → Patrulhamento da propriedade"/>
+          <outline text="Físico → Detectores de movimento"/>
+        </outline>
+
+        <outline text="🔧 Corretivo — Age após um evento detectado para reverter impactos">
+          <outline text="Técnico → Restaurar backup após ransomware"/>
+          <outline text="Gerencial → Políticas de alerta de incidentes"/>
+          <outline text="Operacional → Contatar autoridades"/>
+          <outline text="Físico → Extintor de incêndio"/>
+        </outline>
+
+        <outline text="🔄 Compensatório — Alternativa quando não é possível reverter o evento">
+          <outline text="Técnico → Regra de firewall para vulnerabilidade sem patch"/>
+          <outline text="Gerencial → Separação de deveres (Separation of Duties)"/>
+          <outline text="Operacional → Múltiplos seguranças simultâneos"/>
+          <outline text="Físico → Gerador de energia elétrica"/>
+        </outline>
+
+        <outline text="📌 Diretivo — Direciona comportamento seguro (controle mais fraco)">
+          <outline text="Técnico → Política de armazenamento em pasta criptografada"/>
+          <outline text="Gerencial → Políticas e procedimentos de conformidade"/>
+          <outline text="Operacional → Treinamento de políticas de segurança"/>
+          <outline text="Físico → Sinal 'Apenas Pessoal Autorizado' na porta"/>
+        </outline>
+
+      </outline>
+
+      <outline text="📊 Observações sobre a Matriz">
+        <outline text="Cada tipo se aplica às 4 categorias"/>
+        <outline text="Exemplos variam conforme a organização"/>
+        <outline text="Controles podem se enquadrar em múltiplas categorias"/>
+        <outline text="A tecnologia evolui e novos tipos podem surgir"/>
+      </outline>
+
+    </outline>
+  </body>
+</opml>
